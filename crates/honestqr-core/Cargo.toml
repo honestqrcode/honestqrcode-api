@@ -23,7 +23,7 @@ utoipa.workspace = true
 
 [dev-dependencies]
 criterion = "0.8.2"
-rqrr = "0.10.1"
+rqrr = "0.11.0"
 
 [[bench]]
 name = "render"
